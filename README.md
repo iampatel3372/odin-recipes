@@ -1,1 +1,2 @@
 # odin-recipes
+The website consist of a main index page which will have links to a few recipes. This website is just to test my HTML knowledge. This is the first project in fundamental series of odin project.
